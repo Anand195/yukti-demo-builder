@@ -1,9 +1,0 @@
-{
-  "name": "yukti-demo-builder",
-  "description": "Build customized, interactive ScaleYukti WhatsApp engagement demos for any business from just a URL",
-  "version": "1.0.0",
-  "author": {
-    "name": "Anand195"
-  },
-  "license": "MIT"
-}

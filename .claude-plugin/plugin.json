@@ -1,5 +1,6 @@
 {
   "name": "yukti-demo-builder",
+  "displayName": "ScaleYukti Demo Builder",
   "description": "Build customized, interactive ScaleYukti WhatsApp engagement demos for any business from just a URL",
   "version": "1.0.0",
   "author": {
@@ -16,6 +17,7 @@
     "sales",
     "scaleyukti",
     "crm-automation",
-    "lead-qualification"
+    "lead-qualification",
+    "marketing"
   ]
 }

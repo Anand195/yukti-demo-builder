@@ -1,0 +1,20 @@
+{
+  "name": "yukti-marketplace",
+  "description": "ScaleYukti plugin marketplace — WhatsApp engagement demo builder for Claude Code",
+  "owner": {
+    "name": "Anand195",
+    "email": "anand@scaleyukti.com"
+  },
+  "plugins": [
+    {
+      "name": "yukti-demo-builder",
+      "source": "./",
+      "description": "Build customized, interactive ScaleYukti WhatsApp engagement demos for any business from just a URL",
+      "version": "1.0.0",
+      "author": {
+        "name": "Anand195",
+        "email": "anand@scaleyukti.com"
+      }
+    }
+  ]
+}
