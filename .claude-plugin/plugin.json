@@ -1,0 +1,21 @@
+{
+  "name": "yukti-demo-builder",
+  "description": "Build customized, interactive ScaleYukti WhatsApp engagement demos for any business from just a URL",
+  "version": "1.0.0",
+  "author": {
+    "name": "Anand195",
+    "email": "anand@scaleyukti.com"
+  },
+  "homepage": "https://github.com/Anand195/yukti-demo-builder",
+  "repository": "https://github.com/Anand195/yukti-demo-builder",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "whatsapp",
+    "demo-builder",
+    "sales",
+    "scaleyukti",
+    "crm-automation",
+    "lead-qualification"
+  ]
+}

@@ -1,0 +1,6 @@
+.DS_Store
+node_modules/
+*.html
+!.gitkeep
+inspo/
+triage/
